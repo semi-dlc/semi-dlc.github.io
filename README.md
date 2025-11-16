@@ -1,1 +1,1 @@
-Hello there
+Visit [the GitHub page](https://semi-dlc.github.io) for more information.
